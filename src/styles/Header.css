@@ -1,0 +1,11 @@
+nav{
+    background-color: rgb(17, 51, 82);
+    box-shadow: rgb(62, 1, 124);
+    padding: 0.6rem;
+}
+nav > a{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(127, 194, 204);
+    text-decoration: none;
+    margin: 0 1rem;
+}
